@@ -9,6 +9,7 @@ namespace Person.Migrations
     public partial class Initial : Migration
     {
         /// <inheritdoc />
+        //up
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
